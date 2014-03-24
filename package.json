@@ -1,0 +1,15 @@
+{
+  "name": "lyyqt_server",
+  "version": "0.0.1",
+  "script": {
+    "build": ""
+  },
+  "dependencies": {
+    "websocket": "~1.0.8",
+    "underscore": "~1.6.0",
+    "express": "~3.5.0"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  }
+}
